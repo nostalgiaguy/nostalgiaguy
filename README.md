@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I am Shubham. I am enjoying learning fronted programming from freecodecap tutorials, just published my newly created basic postfolio website <a href="https://nostalgiaguy.com/"></a>. Will be gratefull for any tech advise. Thank you.
 
 <!--
 **nostalgiaguy/nostalgiaguy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
